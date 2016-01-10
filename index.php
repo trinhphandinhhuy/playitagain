@@ -44,9 +44,7 @@
             </div>
 
             <div class="collapse navbar-collapse navbar-main-collapse" id="search-navbar">
-              <form class="navbar-form navbar-right" method="post">
-                    <button type="button" id="androidapp" class="btn btn-success" data-toggle="tooltip" title="Coming soon!" data-placement="bottom">Get Android app</button>
-              </form>
+              
               <ul class="nav navbar-nav list-inline navbar-right">
                 <li><a href="https://www.facebook.com/trinhphandinhhuy" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a></li>
               <li><a href="https://instagram.com/trinhphandinhhuy/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a></li>
