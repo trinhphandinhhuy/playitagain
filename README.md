@@ -1,5 +1,5 @@
 # Playitagain
----
+
 # About
 Playitaga.in is the small music tool that I created in order to fulfill the need of watching Youtube videos endlessly.
 
@@ -10,5 +10,5 @@ Playitaga.in is the small music tool that I created in order to fulfill the need
 * PHP
 * CodeIgniter 3
 * Materializecss
-*Youtube Data API
+* Youtube Data API
 
